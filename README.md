@@ -1,6 +1,6 @@
 ### Olá! Eu sou o João Pedro 👋
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/abreu6c)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abreu6c_/profilecard/?igsh=MW5waWw5ZjB5M3piZg==)
 
 ![Abreu GitHub stats](https://github-readme-stats.vercel.app/api?username=Abreu&show_icons=true&theme=radical)
 
